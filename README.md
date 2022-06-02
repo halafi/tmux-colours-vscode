@@ -1,6 +1,8 @@
 # Tmux Colours: VSCode
 A tmux colour theme that looks like vscode. Inspired by colours found in [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim).
 
+![Preview](/screenshot.png "Screenshot")
+
 ## Install
 ### With the [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (Recommended)
 Add this plugin to the list of TPM plugins in your `.tmux.conf`:
